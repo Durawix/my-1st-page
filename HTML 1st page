@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chlebicznie</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="To strona o Durawixie">
+        <meta name="keywords" content="R6,proplayer,durawix">
+
+        <meta name="author" content="Jakub Durawa">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="css/style.css"
+    </head>
+
+    <body>
+
+      <header id="main-header" height="100">
+        <h1 id="site-title"> DURAWIX </h1>
+
+      </header>
+      <input placeholder="Search..." class="my-input"/>
+
+      <section id="top-stories">
+      
+        <button id="go-button">GO</button>
+        <br /> <br />
+        <div id="text" >Click that button </div>
+
+        <article>
+          <div class="article-image" style="background:url(./images/dzik.jpg)"></div>
+          <h3> <b> <i> Dzik zrył ziemię </b> </i> </h3>
+          <p>Osowa słynie z dzików ryjących ogródki <a href "#" class="more-link"> Czytaj więcej... </a> </p>
+        </article>
+
+        <article>
+          <div class="article-image" style="background:url(./images/chleb.jpg)"></div>
+          <h3> <b> <i> Chleb zjadł dżem </b> </i> </h3>
+            <p>Chlebiczny chleb zjadł dżem  <a href "#" class="bolded-link"> Czytaj więcej...</a> </p>
+        </article>
+
+        <article>
+          <div class="article-image" style="background:url(./images/durawix-boombla.jpg)"></div>
+          <h3> <b> <i> Durawix z Boombla </b> </i> </h3>
+            <p>Durawix spotkał na lanie w Olsztynie boombla z NaVi <a href "#" class="more-link bolded-link"> Czytaj więcej...</a> </p>
+        </article>
+
+<div>
+
+<p id="tekst">   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan mi justo, eu placerat tortor efficitur sit amet. Mauris vitae nunc sit amet elit luctus mollis. Aenean id sem eros. Nulla rhoncus dui dui, nec gravida est interdum id. Integer lacinia dictum est, sit amet aliquet velit accumsan a. Duis nibh massa, volutpat et placerat non, consectetur id tellus. Cras hendrerit sit amet tellus ut accumsan. Sed nec sollicitudin massa, feugiat tristique orci. Suspendisse bibendum maximus justo sit amet hendrerit. Sed dapibus mauris justo. Mauris efficitur ipsum vitae urna semper faucibus. Vivamus non mauris condimentum, ullamcorper ex sit amet, lobortis massa.
+</p>
+<p>
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque tincidunt ipsum finibus gravida imperdiet. Mauris pharetra ac est pellentesque mattis. In id pellentesque sapien, a consectetur arcu. Vivamus vel luctus justo. Proin ac leo a felis euismod convallis sit amet eu ex. Donec vitae sem urna. Praesent at finibus ante. Maecenas ut urna quis lectus auctor porta. Nullam imperdiet dictum neque, in congue erat tincidunt eu. Donec a felis quis felis iaculis finibus sed vitae felis. Pellentesque tempus tellus felis, non pellentesque nisl sollicitudin vel. Pellentesque neque libero, egestas at neque ac, tincidunt posuere felis. Donec eleifend sodales lorem, in interdum nunc faucibus at. In efficitur sed nisl sed faucibus.
+</p>
+<p>
+Donec scelerisque eleifend libero id mattis. Vivamus sollicitudin a lorem sed lobortis. Cras quis urna fringilla sapien sagittis cursus. Integer fermentum tellus nec imperdiet porta. Praesent et accumsan justo, ut lobortis risus. Sed elementum nisl ligula, in ullamcorper sapien placerat a. Maecenas ipsum nisl, semper non posuere vel, sollicitudin eget dolor. Curabitur non purus condimentum, fermentum erat eu, mattis erat. In hac habitasse platea dictumst. Donec id bibendum quam, eget aliquam erat. Praesent eleifend tempus risus quis gravida. Fusce venenatis nisi ligula.
+</p>
+<p>
+Sed sit amet metus nec sapien fringilla rutrum. Vestibulum efficitur in augue a viverra. Sed laoreet tellus hendrerit tempor tempus. Suspendisse rhoncus ipsum nisl, vitae ullamcorper leo laoreet quis. Suspendisse eu dictum augue, nec elementum eros. Vivamus eu rutrum arcu, in pellentesque sem. Sed accumsan augue neque. Nulla congue ultricies diam, id ultricies mi sollicitudin non. Nulla non orci id neque accumsan ultricies. Aenean at ante tincidunt, hendrerit enim quis, dapibus quam. Nam diam augue, fringilla in posuere in, dictum vitae tortor. Phasellus odio velit, efficitur at tempus sit amet, egestas eu nunc. Etiam elit lorem, fermentum quis vestibulum eget, vestibulum nec quam. Nulla ac interdum velit, nec condimentum mauris. Vivamus ultricies urna consectetur, aliquam nunc nec, scelerisque sapien. Integer dictum ullamcorper sem, sed bibendum neque tincidunt sit amet.
+</p>
+<p>
+Vestibulum id vulputate ex. Curabitur id aliquet est, in dictum justo. Nulla facilisi. Phasellus non nunc quis eros interdum scelerisque. Nam pharetra libero a lorem blandit laoreet. Ut luctus rhoncus lobortis. Ut ac dui id nisl pellentesque ultricies nec sit amet tortor. Sed auctor lobortis fringilla. Ut vestibulum pellentesque rutrum. Fusce lacus mi, ullamcorper ut orci in, pulvinar molestie augue. Praesent porttitor eu enim et luctus.
+</p>
+
+</div>
+
+</section>
+
+<main>
+
+<h3> Player for Forsaken</h3>
+  <section>
+    <video width="540" height="320" controls>
+      <source src=".\videos\maestro 3k.mp4" type="video/mp4">
+      <source src=".\videos\maestro 3k.mp4" type="video/ogg">
+        Your browser does not support HTML5
+
+
+    </video>
+  </section>
+
+  <section>
+    <audio id="jansound" width="600" controls loop autoplay >
+      <source src=".\audio\jasnej-kurcze-3.mp3" type="audio/mp3">
+
+    </audio>
+
+  </section>
+
+
+<span> <h3>This site is for my learning of coding </h3> </span>
+
+<section>
+  <img width=10% src=".\images\kuba-cowboy2.jpeg" />
+
+  <h2>  About me </h2>
+  <span> I am semi-professional R6 player. I am streaming on <a href="http://twitch.tv/durawixr6"> Twitch </a> </span>
+</section>
+
+  <section>
+
+    <div> <h2> my favourite games </h2></div>
+    <ol>
+      <li> Valorant </li>
+      <li> Rainbow 6 </li>
+      <li> Wiedzmin </li>
+    <ol>
+      <li> III </li>
+      <li> II </li>
+      <li> I </li>
+    </ol>
+<li> Robin Hood </li>
+
+</ol>
+</section>
+
+
+
+<main>
+  <section>
+    <header> Best plays </header>
+
+      <p>
+        <ul>
+          <a href="https://www.twitch.tv/rainbow6pl/clip/BreakableTrappedOysterBloodTrail"> <li> 4k vs Indastry ML1 </li> </a>
+          <a href="#"> <li> 1v4 vs Invicta Gaming ML1 </li> </a>
+          <a href="#"> <li> 1v2 vs Izako Boars </li> </a>
+
+        </ul>
+      </p>
+    </section>
+</main>
+
+<main>
+  <table border=1px>
+    <thead>
+      <tr>
+        <th width="150">Tournament</th>
+        <th>Place</th>
+        <th>Prize</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td> Masters League#1 </td>
+          <td> 4th</td>
+          <td> 0 PLN</td>
+      </tr>
+
+      <tr>
+          <td> Masters League#2 </td>
+          <td> 4th</td>
+          <td> 250 PLN</td>
+      </tr>
+
+      <tr>
+          <td> Masters League#3 </td>
+          <td> 5-6th</td>
+          <td> 0 PLN</td>
+      </tr>
+
+      </tbody>
+  </table>
+
+
+<section id="contact-form">
+<h2>Place Order</h2>
+<form method="GET" action="place=order.php">
+  <h4>Delievery</h4>
+  <input name="DeliveryMethod" type="radio" value="delivery" /> Delivery <br/>
+  <input name="DeliveryMethod" type= "radio" value="pickup" /> Pickup <br/>
+
+  <h4>Address</h4>
+  <input name="address1" placeholder="Address Line 1" class="lg-input"/> <br/>
+  <input name="address2" placeholder="Address Line 2" class="lg-input"/> <br/>
+
+  <input name="city" placeholder="City" class="sm-input" />
+  <input name="state" placeholder="State" class="sm-input" />
+  <input name="zip" placeholder="Zip" class="sm-input" />
+  <br />
+  <br />
+
+  <h4>Size</h4>
+  <select name="size">
+    <option value="12">12" - 13.99$</option>
+    <option value="16">16" - 16.99$</option>
+    <option value="18">18" - 19.99$</option>
+    <option value="72">72" - 149.99$</option>
+  </select>
+
+
+  <h4> Dodatki </h4>
+  <input name="ingredient" type="checkbox" value="autograf"/> Autograf<br />
+  <input name="ingredient" type="checkbox" value="zdjecie" /> Zdjecie<br />
+  <input name="ingredient" type="checkbox" value="kurka" /> kurka<br />
+  <input name="ingredient" type="checkbox" value="chleb" /> chleb<br />
+  <input name="ingredient" type="checkbox" value="bulka" /> bulka<br />
+
+  <button type="submit">Place Order</button>
+</form>
+<p> <b>Contact</b> </p>
+<b> e-mail: </b> durawix.2k@gmail.com
+
+</section>
+  <br />
+  <br />
+  <br />
+  <footer>
+    <center>&copy; Copyright by Durawix<br />
+      <a href=#> Terms of Service </a>
+  </center>
+  </footer>
+
+<script src="js/main.js"> </script>
+
+</body>
+</html>
